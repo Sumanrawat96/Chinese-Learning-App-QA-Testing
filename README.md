@@ -12,3 +12,12 @@ The objective of testing was to verify the functionality, usability, validations
 - Learning Progress Tracker
 - Premium Subscription
 - Advertisement and Reward Features
+## Testing Types Performed
+-Functional Testing
+- UI Testing
+- Usability Testing
+- Negative Testing
+- Validation Testing
+- Regression Testing
+- Mobile Application Testing
+- Exploratory Testing
