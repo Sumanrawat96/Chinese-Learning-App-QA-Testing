@@ -13,7 +13,7 @@ The objective of testing was to verify the functionality, usability, validations
 - Premium Subscription
 - Advertisement and Reward Features
 ## Testing Types Performed
--Functional Testing
+- Functional Testing
 - UI Testing
 - Usability Testing
 - Negative Testing
